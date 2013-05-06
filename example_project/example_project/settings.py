@@ -125,7 +125,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admin',
     'knockout',
-    'tasks'
+    'tasks',
 )
 
 # A sample logging configuration. The only tangible logging
